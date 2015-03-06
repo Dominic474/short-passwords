@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # This script takes a password list and spits out a new password list 
-# without passwords that are a given length or shorter.
+# with only passwords that are a given length or shorter.
 import sys
 
 if sys.argv.__len__() == 1:
